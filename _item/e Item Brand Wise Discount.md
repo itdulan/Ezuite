@@ -1,5 +1,5 @@
 ---
-title: Item Brand Wise Discount
+title: Brand Wise Discount
 position: 5
 parameters:
   - name:

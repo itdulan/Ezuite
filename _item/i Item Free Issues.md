@@ -1,5 +1,5 @@
 ---
-title: Item Free Issues
+title: Free Issues
 position:2
 parameters:
   - name:

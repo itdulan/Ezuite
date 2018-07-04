@@ -1,5 +1,5 @@
 ---
-title: Item Stock Location
+title: Stock Location
 position: 13
 parameters:
   - name:

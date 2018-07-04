@@ -1,5 +1,5 @@
 ---
-title: Item Wise Discount
+title: Wise Discount
 position: 3
 parameters:
   - name:

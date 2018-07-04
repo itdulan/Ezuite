@@ -1,5 +1,5 @@
 ---
-title: Item Quantity Range Wise Discount 
+title: Quantity Range Wise Discount 
 position: 15
 parameters:
   - name:

@@ -1,5 +1,5 @@
 ---
-title: Item Location Wise Price
+title: Location Wise Price
 position: 14
 parameters:
   - name:

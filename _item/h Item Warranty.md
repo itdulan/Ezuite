@@ -1,5 +1,5 @@
 ---
-title: Item Warranty
+title: Warranty
 position: 11
 parameters:
   - name:
