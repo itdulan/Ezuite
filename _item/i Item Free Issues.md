@@ -1,6 +1,6 @@
 ---
 title: Free Issues
-position:2
+position:
 parameters:
   - name:
     content:

@@ -1,7 +1,7 @@
 ---
 title: Bundle Item
 position:
-parameters: 10
+parameters:
   - name:
     content:
 content_markdown: |- 
