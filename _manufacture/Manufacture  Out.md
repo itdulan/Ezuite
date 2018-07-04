@@ -1,6 +1,6 @@
 ---
 title: Manufacture Out
-position:
+position: 3
 parameters:
   - name:
     content:

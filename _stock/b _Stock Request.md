@@ -1,6 +1,6 @@
 ---
 title: Stock Request
-position:
+position: 1
 parameters:
   - name:
     content:

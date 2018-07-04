@@ -1,6 +1,6 @@
 ---
 title: Customer Gift Voucher
-position:
+position: 8
 parameters:
   - name:
     content:

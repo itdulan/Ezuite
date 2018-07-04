@@ -1,6 +1,6 @@
 ---
 title: Item Warranty
-position:
+position: 11
 parameters:
   - name:
     content:

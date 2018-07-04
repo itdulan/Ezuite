@@ -1,6 +1,6 @@
 ---
 title: Item Stock Location
-position:
+position: 13
 parameters:
   - name:
     content:

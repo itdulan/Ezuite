@@ -1,6 +1,6 @@
 ---
 title: Item Brand Wise Discount
-position:
+position: 5
 parameters:
   - name:
     content:

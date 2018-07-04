@@ -1,6 +1,6 @@
 ---
 title: Financial Operation
-position:
+position: 6
 parameters:
   - name:
     content:

@@ -1,7 +1,6 @@
 ---
 title: Item Iist
-
-position:
+position: 2
 parameters:
   - name:
     content:

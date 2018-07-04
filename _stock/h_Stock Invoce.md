@@ -1,6 +1,6 @@
 ---
 title: Stock Invoce
-position:
+position: 7
 parameters:
   - name:
     content:

@@ -1,6 +1,6 @@
 ---
 title: Stock Clear
-position:
+position: 4
 parameters:
   - name:
     content:

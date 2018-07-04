@@ -1,6 +1,6 @@
 ---
 title: Stock Update
-position:
+position: 2
 parameters:
   - name:
     content:

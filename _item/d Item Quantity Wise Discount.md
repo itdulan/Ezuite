@@ -1,6 +1,6 @@
 ---
 title: Item Quantity Wise Discount
-position:
+position: 4
 parameters:
   - name:
     content:

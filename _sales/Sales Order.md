@@ -1,6 +1,6 @@
 ---
 title: Sales Order
-position:
+position: 2
 parameters:
   - name:
     content:

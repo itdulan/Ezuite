@@ -1,6 +1,6 @@
 ---
 title: Stock Taking
-position:
+position: 6
 parameters:
   - name:
     content:

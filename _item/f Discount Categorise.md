@@ -1,6 +1,6 @@
 ---
 title: Discount Categorise
-position:
+position: 9
 parameters:
   - name:
     content:

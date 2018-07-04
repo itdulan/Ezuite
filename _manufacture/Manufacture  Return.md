@@ -1,6 +1,6 @@
 ---
 title: Manufacture Return
-position:
+position: 4
 parameters:
   - name:
     content:

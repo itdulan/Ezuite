@@ -1,6 +1,6 @@
 ---
 title: Accept Purchase
-position:
+position: 3
 parameters:
   - name:
     content:
