@@ -1,12 +1,13 @@
 ---
-title: Stock Location
-position: 13
+title: Alternative Item
+position: 17
 parameters:
   - name:
     content:
 content_markdown: |- 
   
   {: .info }
+  
 left_code_blocks:
   - code_block:
     title:

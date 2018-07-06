@@ -1,6 +1,6 @@
 ---
 title: Warranty
-position: 11
+position: 12
 parameters:
   - name:
     content:

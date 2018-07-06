@@ -1,6 +1,6 @@
 ---
-title: Bundle Item
-position:
+title: Location Wise Price
+position: 15
 parameters:
   - name:
     content:
