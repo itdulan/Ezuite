@@ -1,6 +1,6 @@
 ---
 title: Stock
-position:
+position: 0
 parameters:
   - name:
     content:

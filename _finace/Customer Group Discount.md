@@ -5,7 +5,7 @@ parameters:
   - name:
     content:
 content_markdown: |-
-  Through ‘Finance’ view, you can view customer advanced, customer payment, supplier payment, banking, bank reconciliation and financial operation. 
+  
   {: .info }
 left_code_blocks:
   - code_block:

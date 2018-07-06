@@ -5,7 +5,7 @@ parameters:
   - name:
     content:
 content_markdown: |-
-  You can do customer payments by using ‘Customer payments’ view.  (Figure 10.2.0) Top of the page, you can view advanced customers, total customer payment history and customer outstanding’s.  Through the smart table, you can get summary of the transaction and by clicking ‘View’ button you can get full details of the transaction. If you want to print payment, you have to click ‘Action’ button. By clicking ‘New Transaction’ you can add new customer information who have done payments. (Figure 10.2.1) 
+  You can do customer payments by using ‘Customer payments’ view. Top of the page, you can view advanced customers, total customer payment history and customer outstanding’s.  Through the smart table, you can get summary of the transaction and by clicking ‘View’ button you can get full details of the transaction. If you want to print payment, you have to click ‘Action’ button. By clicking ‘New Transaction’ you can add new customer information who have done payments.
   {: .info }
   
   <a class="example-image-link" href="images/finace/ customer payment/1.PNG" data-lightbox="example-1"><img class="example-image" src="images/finace/customer payment/1.PNG" data-lightbox="example-1" alt=""></a> 

@@ -5,7 +5,7 @@ parameters:
   - name:
     content:
 content_markdown: |-
-  When you go to ‘Stock’ tab, you can view stock update, stock transfer, stock clear, stock accept, stock taking and stock invoice.  
+  
   {: .info }
 left_code_blocks:
   - code_block:

@@ -5,15 +5,15 @@ parameters:
   - name:
     content:
 content_markdown: |-
-  When you click ‘Employees’ tab at first you can view below interface (Figure 2.0). Top of the page you can view most available employee type and their percentage through donut. Also you can get rough idea about the existing employees by using smart table.  
-  According to figure 2.1, by clicking ‘new employee’ button, you can create new employee in the system. Figure 2.2 shows the interface for adding new employee.  
+  When you click ‘Employees’ tab at first you can view below interface. Top of the page you can view most available employee type and their percentage through donut. Also you can get rough idea about the existing employees by using smart table.  
+  According, by clicking ‘new employee’ button, you can create new employee in the system.Shows the interface for adding new employee.  
    {: .info }
    
   <a class="example-image-link" href="images/employee/1e.PNG" data-lightbox="example-1"><img class="example-image" src="images/employee/1e.PNG" alt="image-1"></a>
   
     <i>Create new employee</i>
 
-  According to figure 2.1, by clicking ‘new employee’ button, you can create new employee in the system. Figure 2.2 shows the interface for adding new employee.  
+  According by clicking ‘new employee’ button, you can create new employee in the system.Shows the interface for adding new employee.  
   {: .success }
   
    <i clsss="Ezuite">Employee Information</i>
