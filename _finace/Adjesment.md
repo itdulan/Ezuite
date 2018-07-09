@@ -1,5 +1,5 @@
 ---
-title: Adjesment
+title: Adjusments
 position: 3
 parameters:
   - name:
