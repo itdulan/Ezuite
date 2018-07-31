@@ -1,6 +1,6 @@
 ---
 title: Customers
-position:
+position: 0
 parameters:
   - name:
     content:
