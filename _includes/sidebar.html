@@ -69,13 +69,12 @@ $(document).ready(function() {
 			<section>
 	
 				<li>
-				<a href="{% if page.url != '/' %}/{% endif %}#{{ doc.id | replace: '/', '' | replace: '.', '' }}">{{ collection.title }}</a>
+				<a href="#">{{ collection.title }}</a>
 				<ul>
 				<li>
 				{% assign sorted_docs = collection.docs | sort: "position" %}
 					{% for doc in sorted_docs %}
 							<a href="{% if page.url != '/' %}/{% endif %}#{{ doc.id | replace: '/', '' | replace: '.', '' }}">
-							{{ doc.title }}
 							{{ doc.title }}
 							</a>
 							</li>
@@ -92,4 +91,5 @@ $(document).ready(function() {
 	<a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
 </p>
 </body>
+
 </html>
