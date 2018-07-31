@@ -65,17 +65,13 @@ $(document).ready(function() {
 	{% assign sorted_collections = site.collections | sort: "position" %}
 	{% for collection in sorted_collections %}
 		{% if collection.label != "posts" %}
-		
-			<section>
-	
-				<li>
-				<a href="{% if page.url != '/' %}/{% endif %}#{{ doc.id | replace: '/', '' | replace: '.', '' }}">{{ collection.title }}</a>
+		<li>
+		<a href="#">{{ collection.title }}</a>
 				<ul>
 				<li>
 				{% assign sorted_docs = collection.docs | sort: "position" %}
 					{% for doc in sorted_docs %}
 							<a href="{% if page.url != '/' %}/{% endif %}#{{ doc.id | replace: '/', '' | replace: '.', '' }}">
-							{{ doc.title }}
 							{{ doc.title }}
 							</a>
 							</li>
@@ -83,7 +79,6 @@ $(document).ready(function() {
 						</li>
 					{% endfor %}
 				</ul>
-			</section>
 		{% endif %}
 	{% endfor %}
 	</ul>
