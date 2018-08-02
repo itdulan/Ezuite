@@ -1,6 +1,6 @@
 ---
 title: Banka Account
-position: 4
+position: 6
 parameters:
   - name:
     content:

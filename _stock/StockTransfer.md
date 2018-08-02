@@ -1,6 +1,6 @@
 ---
 title: Stock Transfer
-position: 3
+position: 4
 parameters:
   - name:
     content:

@@ -306,7 +306,7 @@ hr {
 .left-docs {
 	width: 100%;
 	float: left;
-	padding: 18px;
+	padding: 20px;
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	-moz-box-sizing: border-box;		/* Firefox, other Gecko */
 	box-sizing: border-box;				 /* Opera/IE 8+ */
@@ -435,7 +435,7 @@ header {
 		height: 25px;
  		margin: 0 0 0 18px;
 		background-image: url($base-url + '/images/menu.svg');
-		background-color: transparent;
+		background-color:#26a3e8;
 		background-repeat: no-repeat;
 		background-size: 100%;
 		border: 0;
@@ -449,7 +449,7 @@ header {
 		}
 
 		&:hover {
-			background-color: rgba(0, 0, 0, 0.1);
+			background-color: rgb(38, 163, 232);
 		}
 	}
 
@@ -485,9 +485,9 @@ header {
 	border: 0;
 	border-bottom: 1px solid rgba(0, 0, 0, 0.075);
 
-	font-size: 1.5rem;
+	font-size: 1rem;
 	font-weight: 600;
-	line-height: 1.8;
+	line-height: 1.5;
 
 	&:focus {
 		outline: none;
@@ -512,7 +512,7 @@ header {
 		padding: 0;
 
 		h4 {
-			font-size: 2rem;
+			font-size: 1.2rem;
 		}
 
 		p {

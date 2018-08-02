@@ -1,6 +1,6 @@
 ---
 title: Sales
-position:
+position: 1
 parameters:
   - name:
     content:

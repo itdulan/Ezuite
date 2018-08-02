@@ -2,17 +2,14 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<!-- Demo page js and css files -->
-		<link rel="stylesheet" type="text/css" href="dist2/css/demo.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="/dist2/css/demo.css" media="screen" />
 		<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-		<script src="dist2/js/highlight.pack.js"></script>
-		<script src="dist2/js/demo.js"></script>
-
-		<!-- Add JQuery cookie plugin (optional) -->
-		<script src="dist2/js/jquery.cookie.js"></script>
-		<!-- Add navgoco main js and css files  -->
-		<script type="text/javascript" src="dist2/js/jquery.navgoco.js"></script>
-		<link rel="stylesheet" type="text/css" href="dist2/css/jquery.navgoco.css" media="screen" />
+		<script src="/dist2/js/highlight.pack.js"></script>
+		<script src="/dist2/js/demo.js"></script>
+		<script src="/dist2/js/jquery.cookie.js"></script>
+		<script type="text/javascript" src="/dist2/js/jquery.navgoco.js"></script>
+		<link rel="stylesheet" type="text/css" href="/dist2/css/jquery.navgoco.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="/dist/css/lightbox.css" media="screen" />
 
 <script type="text/javascript" id="demo1-javascript">
 $(document).ready(function() {
@@ -65,9 +62,6 @@ $(document).ready(function() {
 	{% assign sorted_collections = site.collections | sort: "position" %}
 	{% for collection in sorted_collections %}
 		{% if collection.label != "posts" %}
-		
-			<section>
-	
 				<li>
 				<a href="#">{{ collection.title }}</a>
 				<ul>
@@ -82,13 +76,11 @@ $(document).ready(function() {
 						</li>
 					{% endfor %}
 				</ul>
-			</section>
 		{% endif %}
 	{% endfor %}
 	</ul>
 </div>
-<p class="external">
-	<a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+
 </p>
 </body>
 

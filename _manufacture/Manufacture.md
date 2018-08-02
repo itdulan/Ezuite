@@ -1,6 +1,6 @@
 ---
 title: Manufacture
-position:
+position: 1
 parameters:
   - name:
     content:

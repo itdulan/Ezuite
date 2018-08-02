@@ -1,6 +1,6 @@
 ---
 title: Approvals
-position:
+position: 1
 parameters:
   - name:
     content:

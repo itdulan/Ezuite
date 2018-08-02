@@ -1,6 +1,6 @@
 ---
 title: Customer Group Discount
-position: 7
+position: 9
 parameters:
   - name:
     content:

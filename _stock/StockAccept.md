@@ -1,6 +1,6 @@
 ---
 title: Stock Accept
-position: 5
+position: 6
 parameters:
   - name:
     content:

@@ -1,6 +1,6 @@
 ---
 title: Approvals Customer Payments
-position: 6
+position: 7
 parameters:
   - name:
     content:

@@ -1,6 +1,6 @@
 ---
 title: Good Received
-position: 2
+position: 3
 parameters:
   - name:
     content:

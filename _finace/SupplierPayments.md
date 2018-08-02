@@ -1,6 +1,6 @@
 ---
 title: Supplier Payments
-position:
+position: 4
 parameters:
   - name:
     content:
